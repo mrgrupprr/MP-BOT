@@ -5,6 +5,8 @@ To setup go into database.ini and edit all text where it asks you to input. Afte
 ## Side Note
 This took days to program so PLEASE LIKE it. If your asking why I am giving this out for free is, because the owner of SPIKE-MP hired me to code this but sadly never paid. Due to being to poor after me investing hella time into this. 
 
+DISCORD: haze#2603
+
 !!!!! CREDIT ME FOR THIS DO NOT SAY THIS IS YOURS. IF YOU TAKE CREDIT FOR MY TOOL I WILL FIND YOU !!!!
 
 
