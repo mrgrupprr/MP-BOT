@@ -9,6 +9,7 @@ This took days to program so PLEASE LIKE it. If your asking why I am giving this
 
 
 # Commands
+```
 /genkey [Keytype] (Will generate a key to reddem to make a shop)
 /help (Shows the help menu)
 /nuke (Can be used by customers to delete all messenges in there shop)
@@ -18,7 +19,7 @@ This took days to program so PLEASE LIKE it. If your asking why I am giving this
 /remove [Shop] (Will remove a shop)
 /restore [key] [channelname] (Can be used by customer`s to regain accses to there shops)
 /shop (Shows you`r shop menu)
-/usekey [key] (Can be used to redeem a key)
+/usekey [key] (Can be used to redeem a key)```
 
 # Additonal
 If you are indeed a code pro, you can edit delay`s for pings aswell as shop names.
