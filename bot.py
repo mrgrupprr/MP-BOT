@@ -103,7 +103,7 @@ async def on_member_join(member):
 async def on_ready():
     cls()
     await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name=MPNAME + ' on TOP')) # you can change this if you want
-    print("Loged in as: " + bot.user.name + " - " + str(bot.user.id))
+    print("Logged in as: " + bot.user.name + " - " + str(bot.user.id))
     print("Is in servers: " + str(len(bot.guilds)))
     print(f'Bot is ready. -  Version: {version}')
     print("Made by Mr.Grupr with love.")
@@ -133,7 +133,7 @@ async def on_message(message):
                 channel = server.get_channel(int(i))
                 await message.delete()
                 await channel.delete()
-                await member.send('Your Slot is expired. Please contact the owner.')
+                await member.send('Your slot is expired. Please contact the owner.')
 
             else:
                 embednorm = discord.Embed(description=f'** Contact: {member.mention} \n \n' + message.content + '**', color=discord.Color.blue())
